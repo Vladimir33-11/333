@@ -13,3 +13,11 @@
 
 * восхищение
 * мотивированность :grinning:
+
+# Видео
+ [![спокойная музыка](http://rk.karelia.ru/wp-content/uploads/2016/05/More.jpg)](https://youtu.be/S7U8ExhCK50)
+
+---
+### Использование HTML тегов
+### **Я пошел <br> гулять**
+
